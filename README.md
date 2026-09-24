@@ -1,7 +1,7 @@
 ## Color Recognition using OpenCV
 A simple Python project that uses OpenCV to detect **red, blue, and yellow** colors in real time using a camera.
 
-## Technologies
+## Program Use
 
 * Python
 * OpenCV
